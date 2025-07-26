@@ -17,7 +17,7 @@ curl -s https://krebsonsecurity.com/feed/ | ./fabric --pattern extract_wisdom > 
 
 # SANS ISC - threat analysis  
 echo "Analyzing SANS ISC..."
-curl -s https://isc.sans.edu/rssfeed.xml | ./fabric --pattern analyze_threats > "$OUTPUT_DIR/threat-analysis/sans_threats_$DATE.md"
+curl -s https://isc.sans.edu/rssfeed.xml | ./fabric --pattern analyze_threat_report > "$OUTPUT_DIR/threat-analysis/sans_threats_$DATE.md"
 
 # Dark Reading - extract wisdom
 echo "Analyzing Dark Reading..."
@@ -25,7 +25,7 @@ curl -s https://www.darkreading.com/rss.xml | ./fabric --pattern extract_wisdom 
 
 # Microsoft Security - threat analysis
 echo "Analyzing Microsoft Security..."
-curl -s https://www.microsoft.com/security/blog/feed/ | ./fabric --pattern analyze_threats > "$OUTPUT_DIR/threat-analysis/microsoft_threats_$DATE.md"
+curl -s https://www.microsoft.com/security/blog/feed/ | ./fabric --pattern analyze_threat_report > "$OUTPUT_DIR/threat-analysis/microsoft_threats_$DATE.md"
 
 # US-CERT - create questions for follow-up research
 echo "Analyzing US-CERT..."
