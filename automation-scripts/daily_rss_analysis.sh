@@ -29,7 +29,7 @@ curl -s https://www.microsoft.com/security/blog/feed/ | ./fabric --pattern analy
 
 # US-CERT - create questions for follow-up research
 echo "Analyzing US-CERT..."
-curl -s https://www.cisa.gov/cybersecurity-advisories/all.xml | ./fabric --pattern create_questions > "$OUTPUT_DIR/daily-reports/uscert_questions_$DATE.md"
+curl -s https://www.cisa.gov/cybersecurity-advisories/all.xml | ./fabric --pattern extract_questions > "$OUTPUT_DIR/daily-reports/uscert_questions_$DATE.md"
 
 echo "Daily analysis complete - files saved to GitHub repo"
 
