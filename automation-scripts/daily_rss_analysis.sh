@@ -27,9 +27,9 @@ curl -s https://www.darkreading.com/rss.xml | ./fabric --pattern extract_wisdom 
 echo "Analyzing Microsoft Security..."
 curl -s https://www.microsoft.com/security/blog/feed/ | ./fabric --pattern analyze_threat_report > "$OUTPUT_DIR/threat-analysis/microsoft_threats_$DATE.md"
 
-# US-CERT - create questions for follow-up research
-echo "Analyzing US-CERT..."
-curl -s https://www.cisa.gov/cybersecurity-advisories/all.xml | ./fabric --pattern extract_questions > "$OUTPUT_DIR/daily-reports/uscert_questions_$DATE.md"
+# BleepingComputer Security - extract wisdom
+echo "Analyzing BleepingComputer Security..."
+curl -s https://www.bleepingcomputer.com/news/security/ | ./fabric --pattern extract_wisdom > "$OUTPUT_DIR/daily-reports/bleepingcomputer_security_$DATE.md"
 
 echo "Daily analysis complete - files saved to GitHub repo"
 

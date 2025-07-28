@@ -1,8 +1,26 @@
-Here is a summary of the latest cybersecurity news and insights:
+Here is the RSS feed for Dark Reading:
 
-- ISC2 survey reveals that organizations are increasingly turning to AI for cybersecurity solutions.
-- Women Who 'Hacked the Status Quo' initiative aims to inspire more women to pursue careers in cybersecurity.
-- Cognida.ai launches Codien, an AI agent designed to modernize legacy test automation and speed up testing creation.
-- A new ransomware loader called Matanbuchus 3.0 is targeting organizations with advanced features such as EDR spotting and DNS-based command-and-control communication.
-- ISC2 survey also highlights that more organizations are implementing remote work policies, increasing the need for effective cybersecurity measures in a distributed environment.
-- AI-powered ransomware attacks have been on the rise recently, making it crucial for companies to bolster their defenses against these threats.
+<rss version="2.0">
+    <channel>
+        <title>Dark Reading - Cybersecurity News and Analysis</title>
+        <link>https://www.darkreading.com/</link>
+        <description>Detailed news, analysis, commentary and insights on important cybersecurity topics.</description>
+        
+        <item>
+            <title>Oracle Fixes Critical Bug in Cloud Code Editor</title>
+            <link>https://www.darkreading.com/application-security/oracle-fixes-critical-bug-cloud-code-editor</link>
+            <description>The bug allowed an attacker an easy way to compromise a full suite of developer tools in Oracle Cloud Infrastructure.</description>
+            <pubDate>Wed, 16 Jul 2025 21:32:40 GMT</pubDate>
+        </item>
+        
+        <item>
+            <title>ISC2 Finds Orgs Are Increasingly Leaning on AI</title>
+            <link>https://www.darkreading.com/remote-workforce/isc2-organizations-increasingly-leaning-on-ai</link>
+            <description>While many organizations are eagerly integrating AI into their workflows and cybersecurity practices, some remain undecided and even concerned about potential drawbacks of AI deployment.</description>
+            <pubDate>Wed, 16 Jul 2025 21:28:31 GMT</pubDate>
+        </item>
+
+        <!-- Additional items -->
+
+    </channel>
+</rss>
