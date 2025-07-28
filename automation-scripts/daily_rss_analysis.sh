@@ -29,7 +29,7 @@ curl -s https://www.microsoft.com/security/blog/feed/ | ./fabric --pattern analy
 
 # BleepingComputer Security - extract wisdom
 echo "Analyzing BleepingComputer Security..."
-curl -s https://www.bleepingcomputer.com/news/security/ | ./fabric --pattern extract_wisdom > "$OUTPUT_DIR/daily-reports/bleepingcomputer_security_$DATE.md"
+curl -s https://www.bleepingcomputer.com/feed/ | ./fabric --pattern extract_wisdom > "$OUTPUT_DIR/daily-reports/bleepingcomputer_wisdom_$DATE.md"
 
 echo "Daily analysis complete - files saved to GitHub repo"
 
