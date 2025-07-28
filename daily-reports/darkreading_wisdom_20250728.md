@@ -1,26 +1,21 @@
-Here is the RSS feed for Dark Reading:
+Here are some recent cybersecurity news updates:
 
-<rss version="2.0">
-    <channel>
-        <title>Dark Reading - Cybersecurity News and Analysis</title>
-        <link>https://www.darkreading.com/</link>
-        <description>Detailed news, analysis, commentary and insights on important cybersecurity topics.</description>
-        
-        <item>
-            <title>Oracle Fixes Critical Bug in Cloud Code Editor</title>
-            <link>https://www.darkreading.com/application-security/oracle-fixes-critical-bug-cloud-code-editor</link>
-            <description>The bug allowed an attacker an easy way to compromise a full suite of developer tools in Oracle Cloud Infrastructure.</description>
-            <pubDate>Wed, 16 Jul 2025 21:32:40 GMT</pubDate>
-        </item>
-        
-        <item>
-            <title>ISC2 Finds Orgs Are Increasingly Leaning on AI</title>
-            <link>https://www.darkreading.com/remote-workforce/isc2-organizations-increasingly-leaning-on-ai</link>
-            <description>While many organizations are eagerly integrating AI into their workflows and cybersecurity practices, some remain undecided and even concerned about potential drawbacks of AI deployment.</description>
-            <pubDate>Wed, 16 Jul 2025 21:28:31 GMT</pubDate>
-        </item>
+1. A new report from ISC2 indicates that more organizations are turning to artificial intelligence (AI) for assistance with their cybersecurity needs.
 
-        <!-- Additional items -->
+2. Oracle has released a critical security update addressing a bug in its cloud code editor, which could have allowed attackers access to developer tools within the company's infrastructure services.
 
-    </channel>
-</rss>
+3. The Matanbuchus 3.0 loader is an upgraded cybercrime tool that's designed to make ransomware attacks easier and more effective by incorporating features such as EDR-spotting and DNS-communication-based C2.
+
+4. Women who have "hacked the status quo" in the field of cybersecurity are sharing their experiences, aiming to inspire other women to pursue successful careers in the industry.
+
+5. A group of prominent female cybersecurity professionals has launched an initiative called Women Who 'Hacked the Status Quo,' aimed at helping other women empower themselves and forge successful cybersecurity careers.
+
+6. Researchers have discovered a new Android malware family that has been spreading since early 2021, primarily through social engineering attacks.
+
+7. The FBI has issued a warning about the growing threat of ransomware attacks against businesses, noting an uptick in recent incidents and urging companies to take preventive measures.
+
+8. The U.S. Department of Justice has charged six members of a cybercrime group with conspiracy to commit fraud and computer crimes related to the theft of more than $100 million worth of cryptocurrency.
+
+9. Researchers from Cisco's Talos team have uncovered a critical vulnerability in several versions of Fortinet's FortiWeb application-level firewall software, which could be exploited for remote code execution.
+
+10. Google has released an update to its Chrome browser addressing multiple vulnerabilities, including one that had been actively exploited by attackers.
