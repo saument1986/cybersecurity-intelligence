@@ -33,8 +33,6 @@ This system continuously monitors cybersecurity news sources and threat feeds, a
 | **SANS Internet Storm Center** | `analyze_threat_report` | Daily threat advisories |
 | **Dark Reading** | `extract_wisdom` | Enterprise security trends |
 | **Microsoft Security Blog** | `analyze_threat_report` | Real-world threat intelligence |
-| **US-CERT Alerts** | `create_questions` | Government security advisories |
-
 ## 🧠 Analysis Patterns
 
 - **extract_wisdom** - Distills key insights, takeaways, and strategic recommendations
