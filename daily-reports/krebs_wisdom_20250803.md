@@ -1,0 +1,2 @@
+A report has revealed the inner workings of a vast adtech empire, which is being fed by fake CAPTCHAs and deceptive methods. The VexTrio network is a group of malicious software that sits at the centre of this operation, with hundreds of thousands of compromised websites redirecting victims to its web of crime. The network's activity has been traced back to at least four other push monetisation programs based in Russia: Partners House, BroPush, RichAds and RexPush. These entities pay affiliates to drive sign-ups for a variety of schemes, mainly online dating services.
+
