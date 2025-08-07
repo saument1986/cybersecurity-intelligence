@@ -1,0 +1,6 @@
+# Keep raw intelligence local only
+daily-reports/
+threat-analysis/
+# Temporary files
+/tmp/
+*.tmp
