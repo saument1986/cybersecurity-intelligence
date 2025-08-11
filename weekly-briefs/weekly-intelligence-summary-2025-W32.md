@@ -1,5 +1,5 @@
 # Weekly Intelligence Package Summary
-## Week 2025-W32 (2025-08-04 to 2025-08-10)
+## Week 2025-W32 (2025-08-04 to 2025-08-17)
 
 ### Contents
 - **Executive Brief**: Strategic threat analysis for business leadership
@@ -10,5 +10,5 @@
 Automated collection → AI-powered analysis → Strategic synthesis → Executive reporting
 
 ---
-*Generated: Sun Aug 10 08:08:21 PM UTC 2025*
+*Generated: Mon Aug 11 03:55:13 PM UTC 2025*
 *Next Package: 2025-W33*
